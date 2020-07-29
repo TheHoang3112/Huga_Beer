@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Huga_BackGround_Sceen.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/_Scenes/QS1_huga.unity
+    guid: 631f87a26706beb44ba9f513b3310cb2
+  - enabled: 1
+    path: Assets/_Scenes/QS2_huga.unity
+    guid: e637e70ba17454042bb248adf2be140b
+  - enabled: 1
+    path: Assets/_Scenes/QS3_huga.unity
+    guid: abb2a7a7e1765bf4eb2e3e5cb41122f2
+  - enabled: 1
+    path: Assets/_Scenes/QS4_huga.unity
+    guid: 281c075ef42127c41ba1f95070ee0372
+  - enabled: 1
+    path: Assets/_Scenes/QS5_huga.unity
+    guid: 3debd5954f9f1be4a8f1498a49e92eee
+  - enabled: 1
+    path: Assets/_Scenes/QS6_huga.unity
+    guid: 5441fde5e0d3de3469febd454bb79299
+  - enabled: 1
+    path: Assets/_Scenes/QS7_huga.unity
+    guid: b7d4367d87bb420439e29ea747fa5210
+  - enabled: 1
+    path: Assets/_Scenes/QS8_huga.unity
+    guid: 39f255a6a1b12d744a7597744e3e2ea7
+  - enabled: 1
+    path: Assets/_Scenes/QS9_huga.unity
+    guid: cdad03500401db94ab054c63f118d229
+  - enabled: 1
+    path: Assets/_Scenes/QS10_huga.unity
+    guid: 64d0de9bd5ba5374eb39f6ebaa251da1
+  m_configObjects: {}
